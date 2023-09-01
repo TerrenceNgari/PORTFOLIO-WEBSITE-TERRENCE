@@ -1,0 +1,167 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Add more styles as needed */
+
+/* Styles for the JKUAT Car Booking Platform System section */
+#projects.bg-info {
+    background-color: #17a2b8; /* Set the background color */
+    color: #fff; /* Set text color to white */
+    padding: 40px 0; /* Add some padding for spacing */
+}
+
+#projects h2 {
+    font-size: 28px; /* Increase heading size */
+    margin-bottom: 20px; /* Add space below the heading */
+}
+
+#projects p {
+    font-size: 16px; /* Set font size for paragraphs */
+    line-height: 1.6; /* Improve readability with line-height */
+    margin-bottom: 10px; /* Add space below paragraphs */
+}
+
+#projects ul {
+    font-size: 16px; /* Set font size for the list */
+    list-style-type: disc; /* Use bullet points for the list */
+    margin-left: 20px; /* Indent the list */
+}
+
+#projects li {
+    margin-bottom: 5px; /* Add space between list items */
+}
+
+/* Style the links within this section */
+#projects a {
+    color: #ffc107; /* Set link color to yellow */
+    text-decoration: none; /* Remove underlines */
+    font-weight: bold; /* Make links bold */
+}
+
+#projects a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Add a border for the section */
+#projects.container {
+    border: 1px solid #fff; /* White border around the container */
+    padding: 20px; /* Add padding inside the container */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Style the section header */
+#projects h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+/* Increase the spacing between paragraphs */
+#projects p {
+    margin-bottom: 12px;
+}
+
+/* Adjust font size and spacing for the list items */
+#projects ul {
+    font-size: 18px;
+    margin-left: 30px;
+}
+/* Styles for the JKUAT Car Booking Platform System section */
+#projects.bg-info {
+    background-color: #17a2b8;
+    color: #fff;
+    padding: 40px 0;
+}
+
+#projects h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#projects p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+#projects ul {
+    font-size: 16px;
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#projects li {
+    margin-bottom: 5px;
+}
+
+#projects a {
+    color: #ffc107;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#projects a:hover {
+    text-decoration: underline;
+}
+
+/* Style the rest of your website's sections and elements as needed */
+/* ... */
+
+/* Increase spacing between list items */
+#projects li {
+    margin-bottom: 8px;
+}
+
+/* Style the links within the section */
+#projects a {
+    color: #ffc107;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#projects a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for the profile photo */
+.profile-photo {
+    max-width: 100px; /* Adjust the maximum width as needed */
+    border-radius: 50%; /* Create a circular profile photo */
+    margin-right: 20px; /* Add some spacing to the right of the photo */
+}
